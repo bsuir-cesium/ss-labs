@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+.pnpm-store/
+
+# Сборка: dist/ полностью генерируется build.mjs (включая копию typescript.js)
+dist/
+
+# Editors
+.idea/
+.vscode/

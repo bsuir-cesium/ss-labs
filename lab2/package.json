@@ -1,0 +1,8 @@
+{
+  "name": "metrology-gilb-lab2",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Offline TypeScript Gilb analyzer for Lab 2",
+  "scripts": {"build": "node build.mjs", "test": "node verify.mjs"},
+  "devDependencies": {"typescript": "5.9.3"}
+}
